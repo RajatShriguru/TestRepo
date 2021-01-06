@@ -1,2 +1,2 @@
-hello world..
-text changed
+change1:hello world.
+change2:text changed.
