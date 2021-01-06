@@ -1,3 +1,4 @@
 change 1:hello world.
 change 2:text changed.
-chamge 3:third change
+change 3:third change //Idea branch added
+change 4: Commit for master branch 
